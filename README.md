@@ -2,6 +2,8 @@
 
 TLRN (Translate Right Now) is a Discord bot that simplify building i18n applications by providing a simple way to translate ICU messages to different languages.
 
+<a target="_blank" href="https://discord.gg/VtHgKB6pxq"><img src="https://dcbadge.limes.pink/api/server/VtHgKB6pxq" alt="" />
+
 ## Features
 One simple `/translate` command to translate JSON files to different languages.
 
@@ -87,3 +89,8 @@ $ wrangler secret put DISCORD_TOKEN
 $ wrangler secret put DISCORD_PUBLIC_KEY
 $ wrangler secret put DISCORD_APPLICATION_ID
 ```
+
+## Support
+Got a problem, question, or concern? Join our community Discord server and share your thoughts!
+
+<a target="_blank" href="https://discord.gg/VtHgKB6pxq"><img src="https://dcbadge.limes.pink/api/server/VtHgKB6pxq" alt="" />
